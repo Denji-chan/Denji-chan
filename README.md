@@ -4,9 +4,9 @@
 </p>
 
 <!-- ===================== HEADER ===================== -->
-<h1 align="center">Hi 👋, Imma Shady</h1>
+<h1 align="center">Hi 👋, I am Denji</h1>
 
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  Building reliable backend systems with clean architecture and scalable solutions.
+  Designing and building reliable software with clean code, solid architecture and scalable solutions.
 </p>
 
 <hr />
@@ -25,11 +25,11 @@
 
 <img src="./images/about.gif" alt="about" width="300" align="right" />
 
-**Shaddy**, Here — a final-year Computer Engineering student focused on backend development.
+**Denji**, Here — a first-year Computer Engineering student focused on Software engineering.
 
-I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
+I enjoy understanding how software works under the hood, from memory and performance to the design of real-world systems, and turning that knowledge into clean, efficient code.
 
-Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
+Currently, I'm learning C and C++ to build a strong foundation in programming fundamentals, while sharpening my problem-solving skills through Data Structures & Algorithms.
 
 My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
 
@@ -39,9 +39,12 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/USERNAME"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://github.com/Denji-chan"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/LINKEDIN_USERNAME"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+  <a href="mailto:itzdenjichan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/denji.bekzhan"><img src="https://skillicons.dev/icons?i=instagram" alt="Gmail" /></a>
+  <a href="https://t.me/Denji_chan"><img src="https://img.icons8.com/color/48/telegram-app.png" width="48" alt="Telegram" /></a>
+  <a href="https://denji-kun.vercel.app"><img src="https://img.icons8.com/fluency/48/domain.png" width="48" alt="Website" /></a>
 </p>
 
 <!-- ===================== TECH STACK ===================== -->
