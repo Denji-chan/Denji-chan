@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="./images/banner.gif" alt="banner" width="100%" />
+  <img src="./images/banner.png" alt="banner" width="100%" />
 </p>
 
 <!-- ===================== HEADER ===================== -->
@@ -23,7 +23,7 @@
 <!-- ===================== ABOUT ME ===================== -->
 <h2 align="center">🚀 About Me</h2>
 
-<img src="./images/about.gif" alt="about" width="300" align="right" />
+<img src="./images/about.png" alt="about" width="300" align="right" />
 
 **Denji**, Here — a first-year Computer Engineering student focused on Software engineering.
 
