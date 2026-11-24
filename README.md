@@ -103,8 +103,8 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
-<h2 align="center">📈 Activity Graph</h2>
+<h2 align="center">✦ Coding Stats ✦</h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=1F2937&color=C9D1D9&line=3B82F6&point=60A5FA&area=true&area_color=3B82F6&hide_border=true&radius=8" alt="Activity Graph" width="100%" />
-</p>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
