@@ -19,7 +19,7 @@ jobs:
           ### content
           SHOW_TITLE: true          # title line with the time range
           SECTION_NAME: waka
-          TIME_RANGE: all_time      # total time since you joined WakaTime
+          TIME_RANGE: last_7_days     # total time since you joined WakaTime
           SHOW_TOTAL: true          # "Total Time" line at the top
           SHOW_TIME: true           # hours and minutes next to each language
           LANG_COUNT: 8
