@@ -17,7 +17,13 @@
 <p align="center">
   Designing and building reliable software with clean code, solid architecture and scalable solutions.
 </p>
-
+<p align="center">
+  CS Student <img src="https://img.shields.io/badge/NSTU-white?style=flat-square" alt="NSTU" />
+  &nbsp;&nbsp;
+  Focus <img src="https://img.shields.io/badge/Software%20Engineering-white?style=flat-square" alt="Software Engineering" />
+  &nbsp;&nbsp;
+  Mindset <img src="https://img.shields.io/badge/Code%20%E2%80%A2%20Build%20%E2%80%A2%20Learn-white?style=flat-square" alt="Code • Build • Learn" />
+</p>
 <hr />
 
 <!-- ===================== ABOUT ME ===================== -->
