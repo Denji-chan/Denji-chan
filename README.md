@@ -100,6 +100,9 @@ My goal is simple: write clean code, build reliable software, and grow into a so
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Denji-chan&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&border_color=30363d" alt="GitHub Stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=Denji-chan&background=000000&border=30363d&stroke=30363d&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Denji-chan&theme=dark&name=Denji-chan&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=ffffff&icon_color=ffffff&chart_color=ffffff" width="85%" alt="Profile Details" />
+</p>
 
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
