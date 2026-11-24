@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{waka_f175f4d2-86c9-41da-b711-6ad2c88b4d7b}}
           ### content
           SHOW_TITLE: true          # title line with the time range
           SECTION_NAME: waka
